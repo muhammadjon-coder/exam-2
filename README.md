@@ -5,20 +5,6 @@
 
 Article is a dynamic web application for a hacking and technology blog, developed by Astrum IT Academy H4ck3rs. The platform allows users to browse, read, and create articles across various cybersecurity categories.
 
-## 🌟 Image
-- ![image](https://github.com/user-attachments/assets/a849145d-fe5f-4ab0-bb2b-a2f10eb343e7)
-
-
-- ![image](https://github.com/user-attachments/assets/4d0cc4d7-ee4c-4442-a853-672b208fc341)
-
-- ![image](https://github.com/user-attachments/assets/49accedb-a157-4d7f-8ec5-ff3f2cb55e0e)
-
-
-
-
-
-
-
 
 ## 🌟 Features
 
